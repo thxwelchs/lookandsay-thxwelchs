@@ -30,7 +30,7 @@ function lookAndSaySeq(R, L) {
 }
 
 /** TEST */
-let R = "1";
+let R = '1';
 let L = 6;
 
 for (let i = 0; i < 5; i++) {
