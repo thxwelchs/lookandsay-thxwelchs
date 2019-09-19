@@ -1,5 +1,7 @@
 # 읽고말하기(look and say sequence) 알고리즘
 
+<iframe src="https://codesandbox.io/embed/infallible-currying-p19cq?fontsize=14" title="infallible-currying-p19cq" allow="geolocation; microphone; camera; midi; vr; accelerometer; gyroscope; payment; ambient-light-sensor; encrypted-media; usb" style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;" sandbox="allow-modals allow-forms allow-popups allow-scripts allow-same-origin"></iframe>
+
 ```javascript
 function sequencing(seq) {
   let temp = "";
