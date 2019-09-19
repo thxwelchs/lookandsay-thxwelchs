@@ -6,7 +6,7 @@
 
 ```javascript
 function sequencing(seq) {
-  let temp = "";
+  let temp = '';
   let len = seq.length;
   let count = 1;
   for (let i = 0; i < len; i++) {
