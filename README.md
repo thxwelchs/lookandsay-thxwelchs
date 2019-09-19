@@ -1,7 +1,8 @@
 # 읽고말하기(look and say sequence) 알고리즘
 
-Link: [CodeSandBox][codesandboxLink]
-[codesandboxLink]: https://codesandbox.io/embed/infallible-currying-p19cq "Go codesandbox"
+
+
+[codesandbox link](https://codesandbox.io/embed/infallible-currying-p19cq)
 
 ```javascript
 function sequencing(seq) {
